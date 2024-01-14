@@ -40,7 +40,7 @@ Behold a glimpse of my digital masterpieces:
   - Implemented N-gram models to get most frequent words, letters, and syllables in the context of Indian languages.
   - Trained an LSA model on an Indian Language Corpus, to get high-quality embeddings for representation of words.
 
-Explore [my repositories](https://github.com/mkdhake2000?tab=repositories) for more projects!
+Explore  [![GitHub Repos](https://img.shields.io/badge/GitHub-Repos-green?style=flat-square&logo=github)](https://github.com/mkdhake2000?tab=repositories)  for more projects!
 
 ## 🎓 Chronicles of Knowledge
 
@@ -64,8 +64,8 @@ Explore [my repositories](https://github.com/mkdhake2000?tab=repositories) for m
 
 Embark on this quest with me:
 
-- [LinkedIn](https://www.linkedin.com/in/mandar-dhake/)
-- [Twitter](https://twitter.com/MandarDhake)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mandar-dhake/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/MandarDhake)
 
 Feel free to send a carrier pigeon or drop a digital scroll! 😊
 
